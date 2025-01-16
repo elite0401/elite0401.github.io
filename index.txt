@@ -125,55 +125,55 @@ Project Management
 Portfolio
 
 All
-Shopify Store
-Shopify App
-Web Development
+Shopify store
+Web development
+Shopify app
 
 Select category
 All
-Shopify Store
-Shopify App
-Web Development
+Shopify store
+Web development
+Shopify app
 
 alt = sentaler
 Sentaler
-Shopify Store
+Shopify store
 
 alt = intrepid powerboats
 Intrepid Powerboats
-Web Development
+Web development
 
 alt = polysleep
 PolySleep
-Shopify Store
+Shopify store
 
 alt = sparkle in pink
 Sparkle In Pink
-Shopify Store
+Shopify store
 
 alt = swim outlet
 Swim Outlet
-Shopify Store
+Shopify store
 
 alt = boba nutrition
 BOBA Nutrition
-Shopify Store
+Shopify store
 
 alt = juvia's place
 Juvia's Place
-Shopify Store
+Shopify store
 
 alt = brumate
 Brumate
-Shopify Store
+Shopify store
 
 alt = apartolino
 Apartolino
-Web Development
+Web development
 
 alt = automatic discount & gift
 Automatic Discount & Gift
-Shopify App
+Shopify app
 
 
 # contact
