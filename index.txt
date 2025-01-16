@@ -62,21 +62,17 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Raphael Michel
+Raphael Michel
+Amazing support and guidance. Fast and helpful, I would definitely recommend and use the service of Liu again.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Mathias Jensen
+Mathias Jensen
+Jibin is a true Shopify wizard who is capable of anything. He has a deep knowledge of Shopify, and furthermore goes above and beyond from a service standpoint. Communication is quick and clear, which makes it easy to achieve complex requirements!
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Sven Ivo Brinck
+Sven Ivo Brinck
+I was overwhelmed with the number of applicants for the task, but I am glad I picked Liu. He was a fast communicator, has great knowledge of Shopify architecture, is pro with JavaScript/jQuery, and was able to turn around our project in one day without problems. Very pleased, and looking forward to working with him more.
 
 
 ## clients
