@@ -125,52 +125,55 @@ Project Management
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Shopify Store
+Shopify App
+Web Development
 
 Select category
 All
-Web design
-Applications
-Web development
+Shopify Store
+Shopify App
+Web Development
 
-alt = finance
-Finance
-Web development
+alt = sentaler
+Sentaler
+Shopify Store
 
-alt = orizon
-Orizon
-Web development
+alt = intrepid powerboats
+Intrepid Powerboats
+Web Development
 
-alt = fundo
-Fundo
-Web design
+alt = polysleep
+PolySleep
+Shopify Store
 
-alt = brawlhalla
-Brawlhalla
-Applications
+alt = sparkle in pink
+Sparkle In Pink
+Shopify Store
 
-alt = dsm.
-DSM.
-Web design
+alt = swim outlet
+Swim Outlet
+Shopify Store
 
-alt = metaspark
-MetaSpark
-Web design
+alt = boba nutrition
+BOBA Nutrition
+Shopify Store
 
-alt = summary
-Summary
-Web development
+alt = juvia's place
+Juvia's Place
+Shopify Store
 
-alt = task manager
-Task Manager
-Applications
+alt = brumate
+Brumate
+Shopify Store
 
-alt = arrival
-Arrival
-Web development
+alt = apartolino
+Apartolino
+Web Development
 
+alt = automatic discount & gift
+Automatic Discount & Gift
+Shopify App
 
 
 # contact
