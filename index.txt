@@ -89,42 +89,34 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+ZHEJIANG UNIVERSITY OF TECHNOLOGY
+2015 — 2019
+Bachelor of Commerce(B.Com), Software technology
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Front-end developer
+2023 — 2024
+- Develop and execute comprehensive marketing strategies and campaigns that align with the company's goals and objectives. - Lead, mentor, and manage a high-performing marketing team, fostering a collaborative and results-driven work environment. - Monitor brand consistency across marketing channels and materials
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Shopify Front-end development team lead
+2020 — 2022
+- Create and manage the marketing budget, ensuring efficient allocation of resources and optimizing ROI. - Oversee market research to identify emerging trends, customer needs, and competitor strategies. - Monitor brand consistency across marketing channels and materials
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Senior Software Engineer
+2019 — 2020
+- Develop and maintain strong relationships with partners, agencies, and vendors to support marketing initiatives. - Monitor and maintain brand consistency across all marketing channels and materials.
 
 My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
+E-Commerce Strategy
 90%
-WordPress
-50%
+Front-End Development
+95%
+Shopify Plus
+95%
+Project Management
+90%
 
 
 
@@ -178,48 +170,6 @@ Applications
 alt = arrival
 Arrival
 Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
 
 
 
