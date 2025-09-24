@@ -939,11 +939,12 @@ body {
     text-align: justify;
     flex-direction: column;
     margin: 20px;
-    width: 250px;
-    height: 250px;
+    width: 360px;
+    max-width: 100%;
     background: repeating-conic-gradient(from var(--a), #ff2770 0%, #ff2770 5%, transparent 5%, transparent 40%, #ff2770 50%);
     animation: rotating 4s linear infinite;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 .pjbox::before {
@@ -978,14 +979,13 @@ body {
 
 .pjimg {
     margin-top: 10px;
-    height: 120px;
     width: 80%;
     border-radius: 10px;
     z-index: 1;
 }
 
 .pjtext {
-    color: #000;
+    color: #FFF;
     text-decoration: none;
     margin-left: 10px;
     margin-right: 10px;

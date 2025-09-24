@@ -55,35 +55,36 @@
             <h1 id="names">
                 I'm a 
                 <span style="--i:0;" data-text="Programmer.">Programmer.</span>
-                <span style="--i:1;" data-text="Designer.">Designer.</span>
-                <span style="--i:2;" data-text="YouTuber.">YouTuber.</span>
+                <span style="--i:1;" data-text="Store Builder.">Store Builder.</span>
+                <span style="--i:2;" data-text="Virtual Assistant.">Virtual Assistant.</span>
             </h1>
         </div>
         <div class="aboutunder">
             <h2 class="ranlets" data-value="Welcome to my portfolio !">Welcome to my portfolio !</h2><br>
-            <p id="childtext">Hi there, I'm Liu Jibin. A full-stack based in Sri Lanka. I'm also a undergraduate student hoping to specialize in software engineering in Sri Lanka Institute of Information Technology (SLIIT).</p>
+            <p id="childtext">Hi there, I'm Liu Jibin. A Full-Stack E-commerce specialist based in China.</p>
         </div>
         <div class="spbuttons">
             <a onclick='location.href="#Contact"' id="ctmbutton"><span id="ctme">Contact me</span></a>
-            <a onclick='toastNotify("Not Available !", "Please try again later.", "bxs-error", "#af0000")' id="cvbutton"><span id="cvdown">Download CV</span></a>
+            <a href="./assets/resume.pdf" target="_blank" id="cvbutton"><span id="cvdown">Download CV</span></a>
         </div>
         <div class="codesmooth">
             <div class="window glassbox"></div>
             <div class="codename" id="rotXY">
                 <span class="codearea"></span>
                 <span id="python">
-                    <p><b class="nuberings">&nbsp;1 </b><span class="greencode">#About me</span></p>
-                    <p><b class="nuberings">&nbsp;2 </b><span class="bluecode">name</span> = <span class="orangecode">"Liu Jibin"</span></p>
-                    <p><b class="nuberings">&nbsp;3 </b><span class="bluecode">job</span> = <span class="orangecode">"Software engineering student"</span></p>
-                    <p><b class="nuberings">&nbsp;4 </b><span class="bluecode">hobby</span> = <span class="orangecode">"Programming"</span></p>
-                    <p><b class="nuberings">&nbsp;5 </b><span class="bluecode">fav_lang</span> = <span class="orangecode">"Python"</span></p>
-                    <p><b class="nuberings">&nbsp;6 </b></p>
-                    <p><b class="nuberings">&nbsp;7 </b><span class="yellowcodeL">print</span><span class="yellowcode">(</span><span class="bluecodeD">f</span><span class="orangecode">"Hi there ! I'm </span><span class="pinkcode">{<span class="bluecode">name</span>}</span><span class="orangecode">.</span><span class="orangecode"> I'm a </span></p>
-                    <p><b class="nuberings">&nbsp;8 </b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<span class="pinkcode">{<span class="bluecode">job</span>}</span><span class="orangecode"> who </span><span class="pinkcode">{<span class="bluecode">hobby</span>} </span><span class="orangecode">as a hobby</span></p>
-                    <p><b class="nuberings">&nbsp;9 </b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<span class="orangecode">with my favourite language</p>
-                    <p><b class="nuberings">10 </b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</span><span class="pinkcode">{<span class="bluecode">fav_lang</span>}</span><span class="orangecode">"</span><span class="yellowcode">)</span></p>
-                    <p><b class="nuberings">11 </b></p>
-                    <p><b class="currnum">12 </b><b id="blinkcur">|</b></p>
+                    <p><b class="nuberings">&nbsp;1 </b><span class="yellowcode">{%-</span> <span class="greencode">liquid</span></p>
+                    <p><b class="nuberings">&nbsp;2 </b><span class="yellowcode">assign</span> name <span class="yellowcode">=</span> <span class="orangecode">"Liu Jibin"</span></p>
+                    <p><b class="nuberings">&nbsp;3 </b><span class="yellowcode">assign</span> job <span class="yellowcode">=</span> <span class="orangecode">"Software engineering"</span></p>
+                    <p><b class="nuberings">&nbsp;4 </b><span class="yellowcode">assign</span> hobby <span class="yellowcode">=</span> <span class="orangecode">"Programming"</span></p>
+                    <p><b class="nuberings">&nbsp;5 </b><span class="yellowcode">assign</span> fav_lang <span class="yellowcode">=</span> <span class="orangecode">"Liquid"</span></p>
+                    <p><b class="nuberings">&nbsp;6 </b><span class="yellowcode">-%}</span></p>
+                    <p><b class="nuberings">&nbsp;7 </b></p>
+                    <p><b class="nuberings">&nbsp;8 </b>Hi there ! I'm <span class="yellowcode">{{ </span> name <span class="yellowcode">}}</span>. I'm a </p>
+                    <p><b class="nuberings">&nbsp;9 </b><span class="yellowcode">{{ </span> job <span class="yellowcode">}}</span> who <span class="yellowcode">{{ </span> hobby <span class="yellowcode">}}</span> as a</p>
+                    <p><b class="nuberings">10 </b>hobby with my favourite language</p>
+                    <p><b class="nuberings">11 </b><span class="yellowcode">{{ </span> fav_lang <span class="yellowcode">}}</span></p>
+                    <p><b class="nuberings">12 </b></p>
+                    <p><b class="currnum">13 </b><b id="blinkcur">|</b></p>
                 </span>
             </div>
         </div>
@@ -98,21 +99,37 @@
             <hr id="hr0">
         </div>
         <div class="skillcontainer smoothtransform" id="skillsec">
-            <div class="skillbox" data-deg="90%" style="--b:90%;--clr:yellow;" id="spy">
+            <div class="skillbox" data-deg="90%" style="--b:90%;--clr:rgb(150,191,72);" id="sliquid">
                 <div class="skillcircle">
                     <div class="skillcircle2">
                         <h2 class="skillpre">90<small>%</small></h2>
                     </div>
                 </div>
-                <h3 class="skilltx">Python</h3>
+                <h3 class="skilltx">Liquid</h3>
             </div>
-            <div class="skillbox" style="--b:75%;--clr:orange;" id="shtm">
+            <div class="skillbox" style="--b:80%;--clr:orange;" id="shtm">
                 <div class="skillcircle">
                     <div class="skillcircle2">
-                        <h2 class="skillpre">75<small>%</small></h2>
+                        <h2 class="skillpre">80<small>%</small></h2>
                     </div>
                 </div>
                 <h3 class="skilltx">HTML</h3>
+            </div>
+            <div class="skillbox" style="--b:80%;--clr:yellow;" id="sjs">
+                <div class="skillcircle">
+                    <div class="skillcircle2">
+                        <h2 class="skillpre">80<small>%</small></h2>
+                    </div>
+                </div>
+                <h3 class="skilltx">JS</h3>
+            </div>
+            <div class="skillbox" style="--b:85%;--clr:purple;" id="scss">
+                <div class="skillcircle">
+                    <div class="skillcircle2">
+                        <h2 class="skillpre">85<small>%</small></h2>
+                    </div>
+                </div>
+                <h3 class="skilltx">CSS</h3>
             </div>
             <div class="skillbox" style="--b:60%;--clr:rgb(107, 44, 158);" id="scphp">
                 <div class="skillcircle">
@@ -122,14 +139,6 @@
                 </div>
                 <h3 class="skilltx">PHP</h3>
             </div>
-            <div class="skillbox" style="--b:50%;--clr:white;" id="sjs">
-                <div class="skillcircle">
-                    <div class="skillcircle2">
-                        <h2 class="skillpre">50<small>%</small></h2>
-                    </div>
-                </div>
-                <h3 class="skilltx">JS</h3>
-            </div>
             <div class="skillbox" style="--b:50%;--clr:rgb(8, 32, 255);" id="scpsql">
                 <div class="skillcircle">
                     <div class="skillcircle2">
@@ -137,14 +146,6 @@
                     </div>
                 </div>
                 <h3 class="skilltx">SQL</h3>
-            </div>
-            <div class="skillbox" style="--b:20%;--clr:rgb(179, 5, 179);" id="scpp">
-                <div class="skillcircle">
-                    <div class="skillcircle2">
-                        <h2 class="skillpre">20<small>%</small></h2>
-                    </div>
-                </div>
-                <h3 class="skilltx">C</h3>
             </div>
             <div class="skillbox" style="--b:35%;--clr:rgb(5, 250, 38);" id="sciot">
                 <div class="skillcircle">
@@ -154,29 +155,37 @@
                 </div>
                 <h3 class="skilltx">IoT</h3>
             </div>
-            <div class="skillbox" style="--b:40%;--clr:rgb(255, 0, 0);" id="sc3d">
-                <div class="skillcircle">
-                    <div class="skillcircle2">
-                        <h2 class="skillpre">40<small>%</small></h2>
-                    </div>
-                </div>
-                <h3 class="skilltx">3D Modeling</h3>
-            </div>
-            <div class="skillbox" style="--b:60%;--clr:rgb(60, 128, 155);" id="scdes">
+            <div class="skillbox" style="--b:60%;--clr:rgb(97, 219, 251);" id="screact">
                 <div class="skillcircle">
                     <div class="skillcircle2">
                         <h2 class="skillpre">60<small>%</small></h2>
                     </div>
                 </div>
-                <h3 class="skilltx">Designing</h3>
+                <h3 class="skilltx">React</h3>
             </div>
-            <div class="skillbox" style="--b:45%;--clr:rgb(0, 217, 255);" id="scnet">
+            <div class="skillbox" style="--b:50%;--clr:yellow;" id="scpython">
                 <div class="skillcircle">
                     <div class="skillcircle2">
-                        <h2 class="skillpre">45<small>%</small></h2>
+                        <h2 class="skillpre">50<small>%</small></h2>
                     </div>
                 </div>
-                <h3 class="skilltx">Networking</h3>
+                <h3 class="skilltx">Python</h3>
+            </div>
+            <div class="skillbox" style="--b:70%;--clr:rgb(45,186,78);" id="sgit">
+                <div class="skillcircle">
+                    <div class="skillcircle2">
+                        <h2 class="skillpre">70<small>%</small></h2>
+                    </div>
+                </div>
+                <h3 class="skilltx">Git</h3>
+            </div>
+            <div class="skillbox" style="--b:50%;--clr:rgb(60, 128, 155);" id="scdes">
+                <div class="skillcircle">
+                    <div class="skillcircle2">
+                        <h2 class="skillpre">50<small>%</small></h2>
+                    </div>
+                </div>
+                <h3 class="skilltx">Designing</h3>
             </div>
         </div><br><br><br>
 
@@ -198,9 +207,8 @@
                     <div class="gltxedu">
                         <ul>
                             <li>GCE O/L</li>
-                            <li>GCE A/L</li>
-                            <li>Google Fundamentals of Digital Marketing Course</li>
-                            <li>BSc (Hons) Software Engineering student at SLIIT</li>
+                            <li>Bachelor of Commerce(B.Com) at ZHEJIANG UNIVERSITY OF TECHNOLOGY</li>
+                            <li>Credly Shopify Developer Course</li>
                         </ul>
                     </div>
                 </div>
@@ -219,14 +227,49 @@
             <br>
             <div class="prjs">
                 <div class="pjglbox">
-                    <a  onclick='window.open("https://github.com/elite0401")' class="pjbox" style="--pj:1">
-                        <img class="pjimg" src="./assets/workfeatured-GitHub-2.png" alt="GitHub">
-                        <h1 class="pjtext smoothtransform">Visit GitHub</h1>
+                    <a  onclick='window.open("https://sparkleinpink.com/")' class="pjbox" style="--pj:1">
+                        <img class="pjimg" src="./assets/sip.jpg" alt="Sparkle In Pink">
+                        <h1 class="pjtext smoothtransform">Sparkle In Pink</h1>
                         <p class="pjsmtext smoothtransform">See all projecs. Only special projecs are displayed here !</p>
                     </a>
-                    <a onclick='window.open(https://elite0401.github.io/HBD-Generator/)' target="_blank" class="pjbox" style="--pj:2">
-                        <img class="pjimg" src="./assets/hbd.png" alt="hbd">
-                        <h1 class="pjtext smoothtransform">Online Birthday Wishes Generator</h1>
+                    <a onclick='window.open("https://polysleep.com/")' target="_blank" class="pjbox" style="--pj:2">
+                        <img class="pjimg" src="./assets/polysleep.jpg" alt="Polysleep">
+                        <h1 class="pjtext smoothtransform">Polysleep</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://www.intrepidpowerboats.com/")' target="_blank" class="pjbox" style="--pj:3">
+                        <img class="pjimg" src="./assets/intrepid.jpg" alt="Intrepid Powerboats">
+                        <h1 class="pjtext smoothtransform">Intrepid Powerboats</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://www.brumate.com/")' target="_blank" class="pjbox" style="--pj:4">
+                        <img class="pjimg" src="./assets/brumate.jpg" alt="Brumate">
+                        <h1 class="pjtext smoothtransform">Brumate</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://bobanutrition.co/")' target="_blank" class="pjbox" style="--pj:5">
+                        <img class="pjimg" src="./assets/boba.jpg" alt="Boba Nutrition">
+                        <h1 class="pjtext smoothtransform">BOBA Nutrition</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://www.swimoutlet.com/")' target="_blank" class="pjbox" style="--pj:6">
+                        <img class="pjimg" src="./assets/swimoutlet.jpg" alt="SwimOutlet">
+                        <h1 class="pjtext smoothtransform">Swim Outlet</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://sentaler.com/")' target="_blank" class="pjbox" style="--pj:7">
+                        <img class="pjimg" src="./assets/sentaler.jpg" alt="Sentaler">
+                        <h1 class="pjtext smoothtransform">Sentaler</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://jusst.com/")' target="_blank" class="pjbox" style="--pj:8">
+                        <img class="pjimg" src="./assets/jusst.jpg" alt="Jusst">
+                        <h1 class="pjtext smoothtransform">Jusst</h1>
+                        <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
+                    </a>
+                    <a onclick='window.open("https://www.juviasplace.com/")' target="_blank" class="pjbox" style="--pj:9">
+                        <img class="pjimg" src="./assets/juvias.jpg" alt="Juvia's Place">
+                        <h1 class="pjtext smoothtransform">Juvia's Place</h1>
                         <p class="pjsmtext smoothtransform">You can generate birthday wishes using this website.</p>
                     </a>
                 </div>    
@@ -282,14 +325,13 @@
                     <h4>Liu Jibin</h4>
                     <br>
                     <p style="color: #999999;">Copyright © 2024 Liu Jibin.</p>
-                    <img src="./assets/gplv3-or-later-sm.png" alt="GPL license v3">
                 </div>
             </div>
             <div class="footerd2">
                 <div class="smblk">
                     <div class="hoverbox">
                         <ul class="hvul">
-                            <li onclick="window.open('https://www.linkedin.com/in/elite0401/')" class="hvli" style="--cb:1;--colr:#1da1f2;" data-text="Linkedin"><a onclick="window.open('https://www.linkedin.com/in/elite0401/')" class="hva" ><span class="hvspan"><i class='bx bxl-linkedin'></i></span>Linkedin</a></li>
+                            <li onclick="window.open('https://github.com/elite0401')" class="hvli" style="--cb:1;--colr:#6cc644;" data-text="Github"><a onclick="window.open('https://github.com/elite0401')" class="hva" ><span class="hvspan"><i class='bx bxl-github'></i></span>Github</a></li>
                         </ul>
                     </div>
                 </div>
