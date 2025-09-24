@@ -1,6 +1,6 @@
 /*
-    This file is a part of Saviru's Portfolio
-    Copyright (C) 2024 Saviru Kashmira Atapattu
+    This file is a part of Jibin's Portfolio
+    Copyright (C) 2024 Liu Jibin
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -16,9 +16,9 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 */
 
-console.log("Welcome to Saviru's portfolio !")
+console.log("Welcome to Jibin's portfolio !")
 
-const title = "Hi there, I'm Saviru Kashmira Atapattu. Welcome to my portfolio !           ";
+const title = "Hi there, I'm Liu Jibin. Welcome to my portfolio !           ";
 position = 0;
 function scrolltitle() {
     document.title = title.substring(position, title.length) + title.substring(0, position); 
@@ -225,8 +225,8 @@ function sendMessage() {
     emailjs.init("CFVlg1m3TvKf2PC9Q");
   })();
 
-  const serviceID = "sv2006Saviru_PF.2024";
-  const templateID = "templ2006Saviru_PF.2024";
+  const serviceID = "sv2006Jibin_PF.2024";
+  const templateID = "templ2006Jibin_PF.2024";
 
   let params = {
     sendername:document.querySelector("#name").value,
